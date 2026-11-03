@@ -35,6 +35,9 @@ test('follow-up questions use the previous question', () => {
 test('free answers quote the matching sections; unknown questions point to the office', () => {
   const answer = fallbackAnswer(kb, retrieve(kb, 'NEET fees'))
   assert.match(answer, /₹1,30,000/)
+  assert.match(answer, /^Here's what I found/)
+  assert.match(answer, /Call or WhatsApp \+91 90000 00000\.$/)
+  assert.doesNotMatch(answer, /Page:/)
   const none = fallbackAnswer(kb, [])
   assert.match(none, /couldn't find/)
   assert.match(none, /\+91 90000 00000/)

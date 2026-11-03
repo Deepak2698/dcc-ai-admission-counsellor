@@ -7,7 +7,7 @@ Morning batch 7:00 AM to 11:00 AM, afternoon batch 1:00 PM to 5:00 PM (for dropp
 All subjects are taught by full-time faculty with 8 to 20 years of JEE and NEET teaching experience. Each batch has a dedicated mentor who tracks test scores and talks to parents every month.
 
 ## Results
-Every year we publish our results with student names and ranks on the results page, with written consent from the students. Page: /results
+Every year we publish our results with student names and ranks on the results page, with written consent from the students.
 
 ## Online classes
 All courses are also available online with live classes, recordings for 7 days and the same tests. Online fees are 30% lower than classroom fees.
