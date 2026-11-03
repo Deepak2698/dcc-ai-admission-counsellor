@@ -4,6 +4,10 @@
 
 A website chatbot that answers course, fee, scholarship, batch and admission questions 24/7, from your institute's own content, in English, Hindi or Hinglish. Embed it on any website with one line. Built by [DeCODE Crafters](https://decodecrafters.in).
 
+| Live chat | Home | Features |
+| --- | --- | --- |
+| ![Chat](public/screenshots/chat.jpg) | ![Home](public/screenshots/home.jpg) | ![Features](public/screenshots/features.jpg) |
+
 ## Features
 
 - **Answers from your content only:** courses, fees, scholarships, timings, refund policy and FAQs live in plain Markdown files in `content/`.

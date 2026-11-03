@@ -9,7 +9,11 @@ Starlight Coaching Centre is a coaching institute for JEE, NEET and school found
 Phone and WhatsApp: +91 90000 00000. Email: admissions@starlight.example. Address: 2nd floor, Main Road, Bistupur, Jamshedpur. Office hours: Monday to Saturday 9:00 AM to 7:00 PM, Sunday 10:00 AM to 1:00 PM.
 
 ## Admission process
-1. Book a free counselling session or demo class. 2. Take the free scholarship and placement test (60 minutes, online or at the centre). 3. Choose a batch and pay the registration fee of ₹2,000, which is adjusted in the course fee. Admissions are open all year; new batches start every April and July.
+1. Book a free counselling session or demo class.
+2. Take the free scholarship and placement test (60 minutes, online or at the centre).
+3. Choose a batch and pay the registration fee of ₹2,000, which is adjusted in the course fee.
+
+Admissions are open all year; new batches start every April and July.
 
 ## Scholarships
 Scholarships of 10% to 50% on tuition are given on the scholarship test score. Students who scored 90% or above in their last school exam get an extra 10%. Siblings of current students get 5% off. Scholarships cannot be combined beyond 60% in total.
