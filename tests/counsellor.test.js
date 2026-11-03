@@ -27,9 +27,12 @@ test('finds the right section for common questions, including Hinglish', () => {
   assert.equal(top('Will I get my money back if I leave?'), 'Refund policy')
 })
 
-test('follow-up questions use the previous question', () => {
+test('follow-up questions use the previous question; new topics do not', () => {
   const history = [{ role: 'user', content: 'Tell me about the JEE crash course' }]
   assert.equal(retrieve(kb, 'how much is it?', history)[0].title, 'JEE Main crash course')
+  assert.equal(retrieve(kb, 'uski fees?', history)[0].title, 'JEE Main crash course')
+  const neet = [{ role: 'user', content: 'What is the fee for the NEET course?' }]
+  assert.equal(retrieve(kb, 'Scholarship milega kya?', neet)[0].title, 'Scholarships')
 })
 
 test('free answers quote the matching sections; unknown questions point to the office', () => {
