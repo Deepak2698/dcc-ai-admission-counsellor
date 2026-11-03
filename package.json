@@ -1,0 +1,28 @@
+{
+  "name": "dcc-ai-admission-counsellor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI admission counsellor chatbot for coaching institutes: answers from your own content, embeddable on any website.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "@google/genai": "2.29.1",
+    "next": "15.5.12",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.1.18",
+    "postcss": "8.5.6",
+    "tailwindcss": "4.1.18"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
